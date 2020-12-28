@@ -1,0 +1,10 @@
+com\mycompany\mavenproject4\ContactController$1.class
+com\mycompany\mavenproject4\Contact.class
+com\mycompany\mavenproject4\AbstractFacade.class
+com\mycompany\mavenproject4\JAXRSConfiguration.class
+com\mycompany\mavenproject4\ContactController.class
+com\mycompany\mavenproject4\ContactController$ContactControllerConverter.class
+com\mycompany\mavenproject4\util\JsfUtil.class
+com\mycompany\mavenproject4\ContactFacade.class
+com\mycompany\mavenproject4\resources\JavaEE8Resource.class
+com\mycompany\mavenproject4\util\PaginationHelper.class
